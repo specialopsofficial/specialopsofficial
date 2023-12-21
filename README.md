@@ -2,19 +2,19 @@
   
   <p float="left">
 
-  👋 Hi! I'm CodiumAlgorithm <br>
+  👋 Hi! We Are Special Ops Team <br>
   ❤ Nice to meet you 
   
-  🌱 I’m currently Working With Exploits/Crypters, and other<br>
+  🌱 W Are currently Working With Tools, RATs And More., and other<br>
   💬 ask me about anything, i am happy to help<br>
     
 
-[ WEBSITE : https://codiumsecurity.com/ ]
+[ WEBSITE : https://secureops.mixo.io/ ]
 
 
-[ We are not responsible for what you use our protection/encryption/obfuscation software for. ]
+[ We are not responsible for what you use our protection/encryption/obfuscation/RAT/Tools software for. ]
 
-Our encryption/protection/obfuscation software is not made for malicious use,but only for personal and protection purposes against reverse engineering.Misusing our software will lead toaban.We do NOT allow our software to be used wrongly.It is meant for security testing,protection of LAN(parental)monitoring tools and file protection.Crypters Can be used for educational penetration tests,personal tests,and to protect legal files that you dont want being debugged or reverse engineered. *If you need any kind of customer Support regarding product,then please contact us by private messaging. If you need customer support then Contact us directly and we will be more then happy to provide customer support and to Help you.
+Our encryption/protection/obfuscation/Tool/RAT software is not made for malicious use,but only for personal and protection purposes against reverse engineering.Misusing our software will lead toaban.We do NOT allow our software to be used wrongly.It is meant for security testing,protection of LAN(parental)monitoring tools and file protection.Crypters Can be used for educational penetration tests,personal tests,and to protect legal files that you dont want being debugged or reverse engineered. *If you need any kind of customer Support regarding product,then please contact us by private messaging. If you need customer support then Contact us directly and we will be more then happy to provide customer support and to Help you.
 
   
   ## Tech Stack
@@ -35,12 +35,10 @@ Our encryption/protection/obfuscation software is not made for malicious use,but
   ![Discord](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
    -->
 
-  ## 🤝🏻  Connect with Me https://t.me/CodiumTeam
+  ## 🤝🏻  Connect with Me https://t.me/SpecialOpsAdministrator
 
   ## Support
 
-  if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br><br>
-  BTC : bc1qpulpztr0kg2c0q0zvat3hszg03l6x0srtcxj3n
 
   <p  align="center">
 <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"> 
@@ -48,13 +46,6 @@ Our encryption/protection/obfuscation software is not made for malicious use,but
   </p>
 </p>
 
-CODIUM 4.0.0.0 Update   - 2022/12/23
-
-![2](https://user-images.githubusercontent.com/86024483/209413099-87b5b317-d498-4ba6-9c54-433d91f22372.png)
-
-
-
-![final](https://user-images.githubusercontent.com/86024483/181144641-27095dc8-dc72-4878-8eb7-ca87ad3ca8d5.jpg)
 
 
 
