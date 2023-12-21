@@ -14,8 +14,11 @@
 
 [ We are not responsible for what you use our protection/encryption/obfuscation/RAT/Tools software for. ]
 
-Our encryption/protection/obfuscation/Tool/RAT software is not made for malicious use,but only for personal and protection purposes against reverse engineering.Misusing our software will lead toaban.We do NOT allow our software to be used wrongly.It is meant for security testing,protection of LAN(parental)monitoring tools and file protection.Crypters Can be used for educational penetration tests,personal tests,and to protect legal files that you dont want being debugged or reverse engineered. *If you need any kind of customer Support regarding product,then please contact us by private messaging. If you need customer support then Contact us directly and we will be more then happy to provide customer support and to Help you.
 
+Our encryption, protection, obfuscation, and RAT (Remote Access Tool) software is designed for legitimate and ethical purposes, such as personal and security testing, protection of LAN (Local Area Network), parental monitoring tools, and safeguarding files. The software is not intended for malicious use or any activity that violates legal and ethical standards. Misuse of our software is strictly prohibited and will result in a ban.
+We explicitly prohibit the use of our software for any illegal, unethical, or malicious activities. Our software is meant for security testing, educational penetration tests, and personal use. It can also be utilized to protect legal files from being debugged or reverse engineered.
+If you encounter any issues or require customer support for our product, please contact us directly through private messaging. We are committed to providing customer support and assistance to users who are utilizing our software for legitimate purposes. It is important to note that any misuse of our software will not be tolerated, and appropriate actions will be taken to enforce our usage policies."
+This kind of statement is often included by software developers to clarify the intended use of their products and to discourage any misuse that may lead to legal consequences.
   
   ## Tech Stack
   * ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -37,7 +40,6 @@ Our encryption/protection/obfuscation/Tool/RAT software is not made for maliciou
 
   ## 🤝🏻  Connect with Me https://t.me/SpecialOpsAdministrator
 
-  ## Support
 
 
   <p  align="center">
