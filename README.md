@@ -1,43 +1,76 @@
-<h2 align="left">SpecialOps Team.</h2>
+<p float="left">
+  
+  <p float="left">
 
-###
+  👋 Hi! I'm CodiumAlgorithm <br>
+  ❤ Nice to meet you 
+  
+  🌱 I’m currently Working With Exploits/Crypters, and other<br>
+  💬 ask me about anything, i am happy to help<br>
+    
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://discord.gg/jwUdMJd4&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-</div>
-
-###
-
-<br clear="both">
+[ WEBSITE : https://codiumsecurity.com/ ]
 
 
-###
+[ We are not responsible for what you use our protection/encryption/obfuscation software for. ]
+
+Our encryption/protection/obfuscation software is not made for malicious use,but only for personal and protection purposes against reverse engineering.Misusing our software will lead toaban.We do NOT allow our software to be used wrongly.It is meant for security testing,protection of LAN(parental)monitoring tools and file protection.Crypters Can be used for educational penetration tests,personal tests,and to protect legal files that you dont want being debugged or reverse engineered. *If you need any kind of customer Support regarding product,then please contact us by private messaging. If you need customer support then Contact us directly and we will be more then happy to provide customer support and to Help you.
+
+  
+  ## Tech Stack
+  * ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+    ![VSCOCE](https://img.shields.io/badge/Visual_studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+    ![Python](https://img.shields.io/badge/Python-14354c?style=for-the-badge&logo=python&logoColor=ffffff)
+  * ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+    ![POSTSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+    ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+    ![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)
+  <!-- * ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+  ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+  ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)<br> -->
+  <!-- ![Discord](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) -->
+  <!-- <br>
+  ![Discord](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
+  ![Discord](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+  ![Discord](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+   -->
+
+  ## 🤝🏻  Connect with Me https://t.me/CodiumTeam
+
+  ## Support
+
+  if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈<br><br>
+  BTC : bc1qpulpztr0kg2c0q0zvat3hszg03l6x0srtcxj3n
+
+  <p  align="center">
+<img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg"> 
+                  
+  </p>
+</p>
+
+CODIUM 4.0.0.0 Update   - 2022/12/23
+
+![2](https://user-images.githubusercontent.com/86024483/209413099-87b5b317-d498-4ba6-9c54-433d91f22372.png)
+
+
+
+![final](https://user-images.githubusercontent.com/86024483/181144641-27095dc8-dc72-4878-8eb7-ca87ad3ca8d5.jpg)
+
+
+
+
+<!-- <p align="center">
+  <a href="https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&redirect=false">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Angel Santiago Jaime Zavala's DEV Profile">
+  </a><br>
+    <a href="https://github.com/staciax">
+        <img src="https://komarev.com/ghpvc/?username=staciax">
+    </a>
+    <a href="https://github.com/staciax?tab=followers"><img src="https://img.shields.io/github/followers/staciax?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
+<!--  -->
+<!-- [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=yioz5owf1lq36k6pn82ie126p&redirect=false) 
+ 
+
+
+
